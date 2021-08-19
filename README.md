@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @dejondishman
 - 👀 I’m interested in Software... Development 
-- 🌱 I’m currently learning ... JavaScript 
-- 💞️ I’m looking to collaborate on ... Pretty Much anything software related (mainly mobile application  ideas) 
-- 📫 How to reach me ... via email @dejondishman30@gmail.com
-- I am seeking some coding bootcamps to attend and complete before the yeaf is over! So lets ride this rollercoaster together! 
+- 🌱 I’m currently learning ... JavaScript, HtML, CSS, Node.JS, React, Express
+- 💞️ I’m looking to collaborate on ... Pretty Much anything software related (mobile application  ideas) 
+- 📫 How to reach me ... via email @dejondishman30@gmail.com, and or my LinkedIn @https://www.linkedin.com/in/dejon-dishman-11992022/
+- I am a student at Thinkful Coding Bootcamp, studying Software Engineering 
 <!---
 dejondishman/dejondishman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
